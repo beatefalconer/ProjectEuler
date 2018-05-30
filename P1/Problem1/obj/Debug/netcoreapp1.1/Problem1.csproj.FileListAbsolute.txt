@@ -1,0 +1,9 @@
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem1\Problem1\bin\Debug\netcoreapp1.1\Problem1.deps.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem1\Problem1\bin\Debug\netcoreapp1.1\Problem1.runtimeconfig.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem1\Problem1\bin\Debug\netcoreapp1.1\Problem1.runtimeconfig.dev.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem1\Problem1\bin\Debug\netcoreapp1.1\Problem1.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem1\Problem1\bin\Debug\netcoreapp1.1\Problem1.pdb
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem1\Problem1\obj\Debug\netcoreapp1.1\Problem1.csproj.CoreCompileInputs.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem1\Problem1\obj\Debug\netcoreapp1.1\Problem1.AssemblyInfo.cs
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem1\Problem1\obj\Debug\netcoreapp1.1\Problem1.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem1\Problem1\obj\Debug\netcoreapp1.1\Problem1.pdb

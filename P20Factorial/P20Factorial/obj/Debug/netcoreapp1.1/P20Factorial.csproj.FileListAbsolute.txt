@@ -1,0 +1,9 @@
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P20Factorial\P20Factorial\bin\Debug\netcoreapp1.1\P20Factorial.deps.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P20Factorial\P20Factorial\bin\Debug\netcoreapp1.1\P20Factorial.runtimeconfig.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P20Factorial\P20Factorial\bin\Debug\netcoreapp1.1\P20Factorial.runtimeconfig.dev.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P20Factorial\P20Factorial\bin\Debug\netcoreapp1.1\P20Factorial.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P20Factorial\P20Factorial\bin\Debug\netcoreapp1.1\P20Factorial.pdb
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P20Factorial\P20Factorial\obj\Debug\netcoreapp1.1\P20Factorial.csproj.CoreCompileInputs.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P20Factorial\P20Factorial\obj\Debug\netcoreapp1.1\P20Factorial.AssemblyInfo.cs
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P20Factorial\P20Factorial\obj\Debug\netcoreapp1.1\P20Factorial.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P20Factorial\P20Factorial\obj\Debug\netcoreapp1.1\P20Factorial.pdb

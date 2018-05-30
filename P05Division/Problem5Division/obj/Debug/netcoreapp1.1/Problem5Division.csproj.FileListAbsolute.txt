@@ -1,0 +1,9 @@
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem5Division\Problem5Division\bin\Debug\netcoreapp1.1\Problem5Division.deps.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem5Division\Problem5Division\bin\Debug\netcoreapp1.1\Problem5Division.runtimeconfig.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem5Division\Problem5Division\bin\Debug\netcoreapp1.1\Problem5Division.runtimeconfig.dev.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem5Division\Problem5Division\bin\Debug\netcoreapp1.1\Problem5Division.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem5Division\Problem5Division\bin\Debug\netcoreapp1.1\Problem5Division.pdb
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem5Division\Problem5Division\obj\Debug\netcoreapp1.1\Problem5Division.csproj.CoreCompileInputs.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem5Division\Problem5Division\obj\Debug\netcoreapp1.1\Problem5Division.AssemblyInfo.cs
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem5Division\Problem5Division\obj\Debug\netcoreapp1.1\Problem5Division.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem5Division\Problem5Division\obj\Debug\netcoreapp1.1\Problem5Division.pdb

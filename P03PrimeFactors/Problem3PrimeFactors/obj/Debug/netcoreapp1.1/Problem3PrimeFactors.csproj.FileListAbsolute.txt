@@ -1,0 +1,10 @@
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem3PrimeFactors\Problem3PrimeFactors\bin\Debug\netcoreapp1.1\Problem3PrimeFactors.deps.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem3PrimeFactors\Problem3PrimeFactors\bin\Debug\netcoreapp1.1\Problem3PrimeFactors.runtimeconfig.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem3PrimeFactors\Problem3PrimeFactors\bin\Debug\netcoreapp1.1\Problem3PrimeFactors.runtimeconfig.dev.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem3PrimeFactors\Problem3PrimeFactors\bin\Debug\netcoreapp1.1\Problem3PrimeFactors.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem3PrimeFactors\Problem3PrimeFactors\bin\Debug\netcoreapp1.1\Problem3PrimeFactors.pdb
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem3PrimeFactors\Problem3PrimeFactors\obj\Debug\netcoreapp1.1\Problem3PrimeFactors.csprojResolveAssemblyReference.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem3PrimeFactors\Problem3PrimeFactors\obj\Debug\netcoreapp1.1\Problem3PrimeFactors.csproj.CoreCompileInputs.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem3PrimeFactors\Problem3PrimeFactors\obj\Debug\netcoreapp1.1\Problem3PrimeFactors.AssemblyInfo.cs
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem3PrimeFactors\Problem3PrimeFactors\obj\Debug\netcoreapp1.1\Problem3PrimeFactors.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem3PrimeFactors\Problem3PrimeFactors\obj\Debug\netcoreapp1.1\Problem3PrimeFactors.pdb

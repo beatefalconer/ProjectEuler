@@ -1,0 +1,10 @@
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem9pythgoras\Problem9pythgoras\bin\Debug\netcoreapp1.1\Problem9pythgoras.deps.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem9pythgoras\Problem9pythgoras\bin\Debug\netcoreapp1.1\Problem9pythgoras.runtimeconfig.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem9pythgoras\Problem9pythgoras\bin\Debug\netcoreapp1.1\Problem9pythgoras.runtimeconfig.dev.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem9pythgoras\Problem9pythgoras\bin\Debug\netcoreapp1.1\Problem9pythgoras.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem9pythgoras\Problem9pythgoras\bin\Debug\netcoreapp1.1\Problem9pythgoras.pdb
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem9pythgoras\Problem9pythgoras\obj\Debug\netcoreapp1.1\Problem9pythgoras.csprojResolveAssemblyReference.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem9pythgoras\Problem9pythgoras\obj\Debug\netcoreapp1.1\Problem9pythgoras.csproj.CoreCompileInputs.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem9pythgoras\Problem9pythgoras\obj\Debug\netcoreapp1.1\Problem9pythgoras.AssemblyInfo.cs
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem9pythgoras\Problem9pythgoras\obj\Debug\netcoreapp1.1\Problem9pythgoras.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem9pythgoras\Problem9pythgoras\obj\Debug\netcoreapp1.1\Problem9pythgoras.pdb

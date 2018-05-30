@@ -1,0 +1,9 @@
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P10Primes\P10Primes\bin\Debug\netcoreapp1.1\P10Primes.deps.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P10Primes\P10Primes\bin\Debug\netcoreapp1.1\P10Primes.runtimeconfig.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P10Primes\P10Primes\bin\Debug\netcoreapp1.1\P10Primes.runtimeconfig.dev.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P10Primes\P10Primes\bin\Debug\netcoreapp1.1\P10Primes.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P10Primes\P10Primes\bin\Debug\netcoreapp1.1\P10Primes.pdb
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P10Primes\P10Primes\obj\Debug\netcoreapp1.1\P10Primes.csproj.CoreCompileInputs.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P10Primes\P10Primes\obj\Debug\netcoreapp1.1\P10Primes.AssemblyInfo.cs
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P10Primes\P10Primes\obj\Debug\netcoreapp1.1\P10Primes.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P10Primes\P10Primes\obj\Debug\netcoreapp1.1\P10Primes.pdb

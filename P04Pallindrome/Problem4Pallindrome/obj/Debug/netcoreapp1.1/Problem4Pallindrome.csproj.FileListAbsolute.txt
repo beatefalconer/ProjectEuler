@@ -1,0 +1,10 @@
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem4Pallindrome\Problem4Pallindrome\bin\Debug\netcoreapp1.1\Problem4Pallindrome.deps.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem4Pallindrome\Problem4Pallindrome\bin\Debug\netcoreapp1.1\Problem4Pallindrome.runtimeconfig.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem4Pallindrome\Problem4Pallindrome\bin\Debug\netcoreapp1.1\Problem4Pallindrome.runtimeconfig.dev.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem4Pallindrome\Problem4Pallindrome\bin\Debug\netcoreapp1.1\Problem4Pallindrome.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem4Pallindrome\Problem4Pallindrome\bin\Debug\netcoreapp1.1\Problem4Pallindrome.pdb
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem4Pallindrome\Problem4Pallindrome\obj\Debug\netcoreapp1.1\Problem4Pallindrome.csprojResolveAssemblyReference.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem4Pallindrome\Problem4Pallindrome\obj\Debug\netcoreapp1.1\Problem4Pallindrome.csproj.CoreCompileInputs.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem4Pallindrome\Problem4Pallindrome\obj\Debug\netcoreapp1.1\Problem4Pallindrome.AssemblyInfo.cs
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem4Pallindrome\Problem4Pallindrome\obj\Debug\netcoreapp1.1\Problem4Pallindrome.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\Problem4Pallindrome\Problem4Pallindrome\obj\Debug\netcoreapp1.1\Problem4Pallindrome.pdb

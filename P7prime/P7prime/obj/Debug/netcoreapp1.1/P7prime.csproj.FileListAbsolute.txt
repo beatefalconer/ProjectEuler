@@ -1,0 +1,10 @@
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P7prime\P7prime\bin\Debug\netcoreapp1.1\P7prime.deps.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P7prime\P7prime\bin\Debug\netcoreapp1.1\P7prime.runtimeconfig.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P7prime\P7prime\bin\Debug\netcoreapp1.1\P7prime.runtimeconfig.dev.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P7prime\P7prime\bin\Debug\netcoreapp1.1\P7prime.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P7prime\P7prime\bin\Debug\netcoreapp1.1\P7prime.pdb
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P7prime\P7prime\obj\Debug\netcoreapp1.1\P7prime.csprojResolveAssemblyReference.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P7prime\P7prime\obj\Debug\netcoreapp1.1\P7prime.csproj.CoreCompileInputs.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P7prime\P7prime\obj\Debug\netcoreapp1.1\P7prime.AssemblyInfo.cs
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P7prime\P7prime\obj\Debug\netcoreapp1.1\P7prime.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P7prime\P7prime\obj\Debug\netcoreapp1.1\P7prime.pdb

@@ -1,0 +1,10 @@
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P11grid_product\P11grid_product\bin\Debug\netcoreapp1.1\P11grid_product.deps.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P11grid_product\P11grid_product\bin\Debug\netcoreapp1.1\P11grid_product.runtimeconfig.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P11grid_product\P11grid_product\bin\Debug\netcoreapp1.1\P11grid_product.runtimeconfig.dev.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P11grid_product\P11grid_product\obj\Debug\netcoreapp1.1\P11grid_product.csprojResolveAssemblyReference.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P11grid_product\P11grid_product\obj\Debug\netcoreapp1.1\P11grid_product.csproj.CoreCompileInputs.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P11grid_product\P11grid_product\obj\Debug\netcoreapp1.1\P11grid_product.AssemblyInfo.cs
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P11grid_product\P11grid_product\bin\Debug\netcoreapp1.1\P11grid_product.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P11grid_product\P11grid_product\bin\Debug\netcoreapp1.1\P11grid_product.pdb
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P11grid_product\P11grid_product\obj\Debug\netcoreapp1.1\P11grid_product.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P11grid_product\P11grid_product\obj\Debug\netcoreapp1.1\P11grid_product.pdb

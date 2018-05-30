@@ -1,0 +1,9 @@
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P6squares\P6squares\bin\Debug\netcoreapp1.1\P6squares.deps.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P6squares\P6squares\bin\Debug\netcoreapp1.1\P6squares.runtimeconfig.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P6squares\P6squares\bin\Debug\netcoreapp1.1\P6squares.runtimeconfig.dev.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P6squares\P6squares\bin\Debug\netcoreapp1.1\P6squares.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P6squares\P6squares\bin\Debug\netcoreapp1.1\P6squares.pdb
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P6squares\P6squares\obj\Debug\netcoreapp1.1\P6squares.csproj.CoreCompileInputs.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P6squares\P6squares\obj\Debug\netcoreapp1.1\P6squares.AssemblyInfo.cs
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P6squares\P6squares\obj\Debug\netcoreapp1.1\P6squares.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P6squares\P6squares\obj\Debug\netcoreapp1.1\P6squares.pdb

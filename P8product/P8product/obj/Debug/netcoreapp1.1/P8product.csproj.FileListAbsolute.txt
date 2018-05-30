@@ -1,0 +1,10 @@
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P8product\P8product\bin\Debug\netcoreapp1.1\P8product.deps.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P8product\P8product\bin\Debug\netcoreapp1.1\P8product.runtimeconfig.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P8product\P8product\bin\Debug\netcoreapp1.1\P8product.runtimeconfig.dev.json
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P8product\P8product\bin\Debug\netcoreapp1.1\P8product.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P8product\P8product\bin\Debug\netcoreapp1.1\P8product.pdb
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P8product\P8product\obj\Debug\netcoreapp1.1\P8product.csproj.CoreCompileInputs.cache
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P8product\P8product\obj\Debug\netcoreapp1.1\P8product.AssemblyInfo.cs
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P8product\P8product\obj\Debug\netcoreapp1.1\P8product.dll
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P8product\P8product\obj\Debug\netcoreapp1.1\P8product.pdb
+C:\Users\bfalconx\Documents\Beate\C#\Euler\P8product\P8product\obj\Debug\netcoreapp1.1\P8product.csprojResolveAssemblyReference.cache

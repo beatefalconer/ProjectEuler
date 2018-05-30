@@ -1,0 +1,9 @@
+C:\Users\bfalconx\source\repos\P14collatz\P14collatz\bin\Debug\netcoreapp1.1\P14collatz.deps.json
+C:\Users\bfalconx\source\repos\P14collatz\P14collatz\bin\Debug\netcoreapp1.1\P14collatz.runtimeconfig.json
+C:\Users\bfalconx\source\repos\P14collatz\P14collatz\bin\Debug\netcoreapp1.1\P14collatz.runtimeconfig.dev.json
+C:\Users\bfalconx\source\repos\P14collatz\P14collatz\bin\Debug\netcoreapp1.1\P14collatz.dll
+C:\Users\bfalconx\source\repos\P14collatz\P14collatz\bin\Debug\netcoreapp1.1\P14collatz.pdb
+C:\Users\bfalconx\source\repos\P14collatz\P14collatz\obj\Debug\netcoreapp1.1\P14collatz.csproj.CoreCompileInputs.cache
+C:\Users\bfalconx\source\repos\P14collatz\P14collatz\obj\Debug\netcoreapp1.1\P14collatz.AssemblyInfo.cs
+C:\Users\bfalconx\source\repos\P14collatz\P14collatz\obj\Debug\netcoreapp1.1\P14collatz.dll
+C:\Users\bfalconx\source\repos\P14collatz\P14collatz\obj\Debug\netcoreapp1.1\P14collatz.pdb
